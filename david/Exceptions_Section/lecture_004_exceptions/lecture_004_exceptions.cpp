@@ -6,7 +6,7 @@ public:
 	CanGoWrong() {
 		//contructors don't return a value.
 		//Therefore, without exceptions mechanism, we can't return a value that indicates that the allocation falied because we tried to allocate too much memory
-		char* pMemory = new char[9999999999999999];
+		char* pMemory = new char[999999];
 		delete[] pMemory;
 	}
 };
