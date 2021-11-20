@@ -1,2 +1,0 @@
-population uk: 6400
-population israel: 90
