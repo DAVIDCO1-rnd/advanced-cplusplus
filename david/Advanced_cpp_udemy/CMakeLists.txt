@@ -45,6 +45,7 @@ add_executable(lecture_066_perfect_forwarding lecture_066_perfect_forwarding.cpp
 add_executable(lecture_067_bind lecture_067_bind.cpp)
 add_executable(lecture_068_unique_pointers lecture_068_unique_pointers.cpp)
 add_executable(lecture_069_shared_pointers lecture_069_shared_pointers.cpp)
+add_executable(polymorphism polymorphism.cpp)
 
 
 
