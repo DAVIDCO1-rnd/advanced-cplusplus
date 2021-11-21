@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include "ring043.h"
 
 using namespace std;
